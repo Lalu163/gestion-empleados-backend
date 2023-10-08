@@ -1,4 +1,4 @@
-package com.gestion.empleados.gestionempleadosbackend.model;
+package com.gestion.empleados.gestionempleadosbackend.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
