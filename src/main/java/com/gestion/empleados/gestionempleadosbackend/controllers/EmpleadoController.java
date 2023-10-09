@@ -12,7 +12,7 @@ import com.gestion.empleados.gestionempleadosbackend.repositories.EmpleadoReposi
 
 @RestController
 @RequestMapping("/api/v1/")
-@CrossOrigin(origins = "http://localhost:4200/")
+@CrossOrigin(origins = "http://localhost:4200")
 public class EmpleadoController {
 
     @Autowired
